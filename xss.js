@@ -1,0 +1,1 @@
+alert('XSS Test: Externt skript laddat!');
