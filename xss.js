@@ -1,1 +1,1 @@
-alert('XSS Test: Externt skript laddat!');
+alert('CyberX was here!');
